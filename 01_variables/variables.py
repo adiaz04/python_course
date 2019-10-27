@@ -7,6 +7,8 @@ variables are created the moment you assign them a value.
 
 # create a variable
 # car_color = 'red'
+# age = 10
+# pi = 3.14
 
 # assign value to multiple variables
 # a = b = c = 10
@@ -28,7 +30,7 @@ naming rules
 # user_name = 'joe'
 # userName = 'joe'
 
-# declare a variable named foo with the value of 'bar' and print it out.
+# declare a variable named foo with the value of 'barbar' and print it out.
 # foo = 'barbar'
 # print('foo = ' + foo)
 
